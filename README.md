@@ -19,7 +19,6 @@
 
 [![Surprise-ling's github stats](https://github-readme-stats.vercel.app/api?username=Surprise-ling)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="150" src="https://pandafe.gitee.io/clock/img/wechat1.jpg" />
 <!--
 **Surprise-ling/Surprise-ling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
