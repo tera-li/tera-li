@@ -1,6 +1,6 @@
 ### Hi 我是瑾江
 
-![Surprise-ling badge](https://visitor-badge.glitch.me/badge?page_id=Surprise-ling.visitor-badge&left_color=red&right_color=green) 
+![hljinjiang badge](https://visitor-badge.glitch.me/badge?page_id=hljinjiang.visitor-badge&left_color=red&right_color=green) 
 
 
 **社区主页**  
@@ -17,10 +17,10 @@
 
 
 
-[![Surprise-ling's github stats](https://github-readme-stats.vercel.app/api?username=Surprise-ling)](https://github.com/anuraghazra/github-readme-stats)
+[![hljinjiang's github stats](https://github-readme-stats.vercel.app/api?username=hljinjiang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Surprise-ling/Surprise-ling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hljinjiang/hljinjiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
