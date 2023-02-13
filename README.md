@@ -1,6 +1,6 @@
 ### Hi 我是瑾江
 
-![hljinjiang badge](https://visitor-badge.glitch.me/badge?page_id=hljinjiang.visitor-badge&left_color=red&right_color=green) 
+![Johan Lin badge](https://visitor-badge.glitch.me/badge?page_id=johan-ljl.visitor-badge&left_color=red&right_color=green) 
 
 
 **社区主页**  
