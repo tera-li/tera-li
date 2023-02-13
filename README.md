@@ -1,4 +1,4 @@
-### Hi 我是瑾江
+### Hi I'm Johan Lin
 
 ![Johan Lin badge](https://visitor-badge.glitch.me/badge?page_id=johan-ljl.visitor-badge) 
 
