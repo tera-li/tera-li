@@ -2,10 +2,9 @@
 
 ![Johan Lin badge](https://visitor-badge.glitch.me/badge?page_id=johan-ljl.visitor-badge&left_color=red&right_color=green) 
 
-
 **社区主页**  
 
-- [掘金](https://juejin.cn/user/3395724659925656)
+- [掘金](https://juejin.cn/user/3395724659925656/posts?sort=popular)
 
 **擅长:**  
 
@@ -17,11 +16,11 @@
 
 
 
-[![hljinjiang's Github stats](https://github-readme-stats.vercel.app/api?username=hljinjiang)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hljinjiang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Johan Lin's Github stats](https://github-readme-stats.vercel.app/api?username=johan-ljl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johan-ljl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**hljinjiang/hljinjiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**johan-ljl/johan-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!--
