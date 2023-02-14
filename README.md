@@ -1,4 +1,4 @@
-### Hi I'm Johan Lin
+### Hi I'm tetra-lin
 
 ![tetra-lin badge](https://visitor-badge.glitch.me/badge?page_id=tetra-lin.visitor-badge) 
 
