@@ -1,6 +1,6 @@
-### Hi I'm tetra-lin
+### Hi I'm tera-li
 
-![tetra-lin badge](https://visitor-badge.glitch.me/badge?page_id=tetra-lin.visitor-badge) 
+![tera-li badge](https://visitor-badge.glitch.me/badge?page_id=tera-li.visitor-badge) 
 
 **社区主页**  
 
@@ -16,12 +16,12 @@
 
 
 
-[![tetra-lin's Github stats](https://github-readme-stats.vercel.app/api?username=tetra-lin)](https://github.com/anuraghazra/github-readme-stats)
+[![tera-li's Github stats](https://github-readme-stats.vercel.app/api?username=tetra-lin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetra-lin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tera-li&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**tetra-lin/tetra-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tera-li/tera-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!--
