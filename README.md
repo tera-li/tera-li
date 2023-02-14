@@ -1,6 +1,6 @@
 ### Hi I'm Johan Lin
 
-![Johan Lin badge](https://visitor-badge.glitch.me/badge?page_id=johan-ljl.visitor-badge) 
+![tetra-lin badge](https://visitor-badge.glitch.me/badge?page_id=tetra-lin.visitor-badge) 
 
 **社区主页**  
 
@@ -16,12 +16,12 @@
 
 
 
-[![Johan Lin's Github stats](https://github-readme-stats.vercel.app/api?username=johan-ljl)](https://github.com/anuraghazra/github-readme-stats)
+[![Johan Lin's Github stats](https://github-readme-stats.vercel.app/api?username=tetra-lin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johan-ljl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetra-lin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**johan-ljl/johan-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tetra-lin/tetra-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!--
