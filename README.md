@@ -1,6 +1,6 @@
 ### Hi I'm tera-li
 
-![tera-li badge](https://visitor-badge.glitch.me/badge?page_id=tera-li.visitor-badge) 
+<!-- ![tera-li badge](https://visitor-badge.glitch.me/badge?page_id=tera-li.visitor-badge) -->
 
 **社区主页**  
 
